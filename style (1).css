@@ -1,0 +1,27 @@
+.mynav{
+    top: 0;
+    position: sticky;
+    z-index: 99999;
+}
+#vid{
+    width: 100%;
+    height: 500px;
+    border-width: 3px;
+    border-color: aqua;
+    border-style: solid;
+    margin:;
+}
+body{
+    text-align: center;
+    background-color: red;
+}
+.cl{
+    border: 3px solid red;
+}
+.cl img{
+    height: 400px;
+    width: 550px;
+}
+.cl p{
+    margin: 20px;
+}
